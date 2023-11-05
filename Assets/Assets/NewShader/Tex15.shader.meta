@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 55f2a6542dfb64134b789264909478ed
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _RockAlbedo: {instanceID: 0}
+  - _RockNormals: {instanceID: 0}
+  - _RockHeight: {instanceID: 0}
+  - _DiffuseIBL: {instanceID: 0}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
